@@ -75,7 +75,7 @@
 
 #### Input the RNA sequencing data of 9 target lncRNAs of LUAD and LUSC from TCGA database, and train the model using ten-fold cross-validation method. During the training process, the model parameters with the best fold performance are saved. After the completion of training, the loss function change curve, the accuracy fluctuation curve, and the AUC values of the internal training and validation sets are visualized.
 
-## lncNSCLCDiag
+## lncNSCLCDiag.zip
 ## main.py
 ### Environmental installation
 #### pip install pyqt5 == 5.15.11
